@@ -1,2 +1,9 @@
+HEAD
 Aprendendo Git
 Aprendendo Branch
+
+Meu nome é Isis Ribeiro
+Curso backend em Python 
+
+Aprendendo Git e GitHub
+
